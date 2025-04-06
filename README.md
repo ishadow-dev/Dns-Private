@@ -21,4 +21,4 @@ curl -O https://raw.githubusercontent.com/ishadow-dev/Dns-Private/main/Private-D
 ## Licenes
 MIT License
 
-**- USDT (TRC20):** TEsg86iZsKwGHDES6BSjFN5s7Z8JaVjPAw
+**- USDT (TRC20):** TJFzpTArQvGRo5QJ8vz8YX2F4bVeuKXv8k
