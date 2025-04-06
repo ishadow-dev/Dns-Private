@@ -5,7 +5,6 @@
 ## Install And Run
 
 ```
-
 curl -O https://raw.githubusercontent.com/ishadow-dev/Dns-Private/main/Private-DNS.py && python3 Private-DNS.py
 ```
 
