@@ -6,7 +6,7 @@
 
 ```
 
-curl -O https://raw.githubusercontent.com/ishadow-dev/Abuse-Hetzner/main/Abuse_Hetzner.py && python3 Abuse_Hetzner.py
+curl -O https://raw.githubusercontent.com/ishadow-dev/Dns-Private/main/Private-DNS.py && python3 Private-DNS.py
 ```
 
 ## Languages
@@ -18,6 +18,7 @@ curl -O https://raw.githubusercontent.com/ishadow-dev/Abuse-Hetzner/main/Abuse_H
 **If this project is useful for you, please support us🌟**
 **We don't need sponsorship, just the star (🌟) s enough.**
 
-![]()
+##Licenes
+MIT License
 
 **- USDT (TRC20):** TEsg86iZsKwGHDES6BSjFN5s7Z8JaVjPAw
